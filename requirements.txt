@@ -1,0 +1,10 @@
+langchain>=0.1.17,<0.2.0
+langchain-core>=0.1.35
+langchain-community>=0.0.34
+langchain-google-genai>=0.0.6
+langchain-text-splitters>=0.0.1
+faiss-cpu>=1.7.4
+tiktoken>=0.5.1
+python-dotenv>=1.0.1
+unstructured>=0.10.12
+beautifulsoup4>=4.12.3
